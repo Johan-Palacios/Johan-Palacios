@@ -33,6 +33,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=302d41&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-0512AB?style=for-the-badge&color=302d41&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-0512AB?style=for-the-badge&color=302d41&logo=CSS3&logoColor=1572B6)
+![VSCODE](https://img.shields.io/badge/-VSCODE-0512AB?style=for-the-badge&color=302d41&logo=Visual%20Studio%20Code&logoColor=007ACC)
 
 
 ### ⭐ Stats
