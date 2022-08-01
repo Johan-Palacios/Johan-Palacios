@@ -1,4 +1,4 @@
-<h1 align="center">Hello I'm Johan Palacios<img src="https://raw.githubusercontent.com/Johan-Palacios/Johan-Palacios/main/assets/hi.gif?raw=true" width="30px" height="30px"></h1>
+<h1 align="center">Hello I'm Johan Palacios👋</h1>
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=Johan-Palacios&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
