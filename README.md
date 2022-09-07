@@ -26,7 +26,7 @@
 ![Python](https://img.shields.io/badge/-Python-0512AB?style=for-the-badge&color=302d41&logo=Python&logoColor=f7cc40)
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=for-the-badge&color=302d41&logo=lua&logoColor=0062cc)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=for-the-badge&color=302d41&logo=neovim&logoColor=4b9e4b)
-![Kotlin](https://img.shields.io/badge/-Java-0512AB?style=for-the-badge&color=302d41&logo=Kotlin&logoColor=7F52FF)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0512AB?style=for-the-badge&color=302d41&logo=Kotlin&logoColor=7F52FF)
 ![C++](https://img.shields.io/badge/-C++-0512AB?style=for-the-badge&color=302d41&logo=c%2B%2B&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&color=302d41&logo=mysql&logoColor=4479A1)
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=for-the-badge&color=302d41&logo=gnu-bash&logoColor=4EAA25)
