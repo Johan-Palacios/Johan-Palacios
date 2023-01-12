@@ -18,8 +18,6 @@
 <!-- Icons: https://simpleicons.org/ -->
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&color=302d41&logo=linux&logoColor=dfb914)
-![Arch Linux](https://img.shields.io/badge/-Arch-05122A?style=for-the-badge&color=302d41&logo=archlinux&logoColor=3399cc)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=for-the-badge&color=302d41&logo=ubuntu&logoColor=d64613)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=302d41&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&color=302d41&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&color=302d41&logo=markdown)
@@ -33,7 +31,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=302d41&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-0512AB?style=for-the-badge&color=302d41&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-0512AB?style=for-the-badge&color=302d41&logo=CSS3&logoColor=1572B6)
-![VSCODE](https://img.shields.io/badge/-VSCODE-0512AB?style=for-the-badge&color=302d41&logo=Visual%20Studio%20Code&logoColor=007ACC)
 
 
 ### ⭐ Stats
