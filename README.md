@@ -1,7 +1,7 @@
 <h1 align="center">Hello I'm Johan Palacios👋</h1>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Johan-Palacios&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
+  <img alig src="https://github-readme-stats.vercel.app/api?username=Johan-Palacios&show_icons=true&theme=onedark" alt="Trophies" />
 </p>
 
 
